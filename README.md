@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kinitosz 😁
+## Bem-vindo(a) ao perfil do kinitosz 😁
 
  <div>
    <a href="https://github.com/kinitosz">
